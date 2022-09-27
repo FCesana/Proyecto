@@ -1,0 +1,50 @@
+.container-fluid
+{
+    position: relative;
+    
+}
+
+.textoizquierdaabajo
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: relative;
+  color:white;
+}
+
+.alineartextoderecha
+{
+    text-align: right;
+}
+
+.brillo
+{
+    filter: brightness(40%);
+}
+
+.boton1 
+{
+    font-size: 0.6rem;
+    font-weight: bold;
+    
+}
+
+.azuloscuro
+{
+    background-color: rgb(29, 31, 61);
+}
+
+.letrachica
+{
+    font-size: small;
+    color: darkgray;
+}
+
+.verdeclaro
+{
+    background-color: rgb(96, 167, 25) ;
+
+}
+
+
