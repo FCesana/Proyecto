@@ -47,4 +47,52 @@
 
 }
 
+.letragris
+{
+    color:darkgrey;
+    font-size: 0.8em;
+}
 
+.negrita
+{
+    font-weight: bold;
+}
+
+.bordeazul
+{
+    border-radius: 0%;
+    border-style: solid;
+    border-color: blue;
+}
+
+.bordeverde
+{
+    border-radius: 0%;
+    border-style: solid;
+    border-color: darkgreen;
+}
+
+.bordeamarillo
+{
+    border-radius: 0%;
+    border-style: solid;
+    border-color: yellow;
+}
+
+.letragrande
+{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.fondoceleste
+{
+    background-color: cornflowerblue;
+}
+
+
+
+.azuloscuro
+{
+    background-color: rgb(31, 31, 92);
+}
